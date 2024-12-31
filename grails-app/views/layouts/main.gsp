@@ -13,7 +13,7 @@
 <body>
 
 <header name="header">
-    <g:link controller="exc1" action="exc1">加解密工具</g:link>
+    <g:link controller="exc1" action="exc1">範例程式</g:link>
 </header>
 <g:layoutBody/>
 
